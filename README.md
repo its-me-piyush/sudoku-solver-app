@@ -1,9 +1,10 @@
-# sudoku_solver_mark_2
+# sudoku solver App
 
 A new Flutter project.
 
 https://user-images.githubusercontent.com/85029306/138937979-c916832c-f14b-4b65-bb64-bf4f68318c91.mp4
 
+A app which solves sudoku via an api (created in python) and then displays the solved sudoku.
 
 ## Getting Started
 
